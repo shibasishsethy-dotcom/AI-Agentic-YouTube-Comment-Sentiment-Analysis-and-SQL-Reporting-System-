@@ -6,9 +6,9 @@
 The project accepts a YouTube channel as input, fetches the latest videos and comments using the official YouTube Data API, analyzes comment sentiment with a Hugging Face model, stores the data in SQL, and exports CSV reports.
 
 Main Files
-YouTube_Agentic_Sentiment_Analysis_Complete.ipynb
+YouTube Agentic Sentiment Analysis.ipynb
 
-youtube_agentic_sentiment_project.py - main Python code
+youtube.py - main Python code
 
 TECHNICAL_DOCUMENT.md - project explanation
 
