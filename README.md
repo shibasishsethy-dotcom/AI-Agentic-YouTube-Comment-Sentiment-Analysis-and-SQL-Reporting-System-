@@ -15,8 +15,8 @@ TECHNICAL_DOCUMENT.md - project explanation
 Output Files Created After Running
 youtube_sentiment.db - Tidb database
 youtube_sentiment_dump.sql - SQL dump
-video_sentiment_report.csv - video-wise sentiment report
-channel_summary_report.csv - channel-level summary report
+video_sentiment_report.csv - video wise sentiment report
+channel_summary_report.csv - channel level summary report
 all_comments_with_sentiment.csv - all comments with sentiment labels
 How To Run In Google Colab
 Upload and open YouTube_Agentic_Sentiment_Analysis_Complete.ipynb.
